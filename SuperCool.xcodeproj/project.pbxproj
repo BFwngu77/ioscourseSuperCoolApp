@@ -14,6 +14,8 @@
 		89CF51831E09A53D00736786 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 89CF51811E09A53D00736786 /* LaunchScreen.storyboard */; };
 		89CF518E1E09A53D00736786 /* SuperCoolTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89CF518D1E09A53D00736786 /* SuperCoolTests.swift */; };
 		89CF51991E09A53D00736786 /* SuperCoolUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89CF51981E09A53D00736786 /* SuperCoolUITests.swift */; };
+		89CF51A71E09A73200736786 /* Boom-App.png in Resources */ = {isa = PBXBuildFile; fileRef = 89CF51A61E09A73200736786 /* Boom-App.png */; };
+		89CF51A91E09A90B00736786 /* o-HYDROGEN-BOMB-TEST-facebook.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 89CF51A81E09A90B00736786 /* o-HYDROGEN-BOMB-TEST-facebook.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +49,8 @@
 		89CF51941E09A53D00736786 /* SuperCoolUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SuperCoolUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		89CF51981E09A53D00736786 /* SuperCoolUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SuperCoolUITests.swift; sourceTree = "<group>"; };
 		89CF519A1E09A53D00736786 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		89CF51A61E09A73200736786 /* Boom-App.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Boom-App.png"; sourceTree = "<group>"; };
+		89CF51A81E09A90B00736786 /* o-HYDROGEN-BOMB-TEST-facebook.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "o-HYDROGEN-BOMB-TEST-facebook.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +105,8 @@
 				89CF517A1E09A53D00736786 /* ViewController.swift */,
 				89CF517C1E09A53D00736786 /* Main.storyboard */,
 				89CF517F1E09A53D00736786 /* Assets.xcassets */,
+				89CF51A81E09A90B00736786 /* o-HYDROGEN-BOMB-TEST-facebook.jpg */,
+				89CF51A61E09A73200736786 /* Boom-App.png */,
 				89CF51811E09A53D00736786 /* LaunchScreen.storyboard */,
 				89CF51841E09A53D00736786 /* Info.plist */,
 			);
@@ -232,8 +238,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				89CF51A91E09A90B00736786 /* o-HYDROGEN-BOMB-TEST-facebook.jpg in Resources */,
 				89CF51831E09A53D00736786 /* LaunchScreen.storyboard in Resources */,
 				89CF51801E09A53D00736786 /* Assets.xcassets in Resources */,
+				89CF51A71E09A73200736786 /* Boom-App.png in Resources */,
 				89CF517E1E09A53D00736786 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
